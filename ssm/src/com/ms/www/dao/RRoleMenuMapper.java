@@ -2,7 +2,8 @@ package com.ms.www.dao;
 
 import com.ms.www.model.RRoleMenu;
 /**
- * mapper
+ * mappergit
+ * 
  * @author Administrator
  *
  */
